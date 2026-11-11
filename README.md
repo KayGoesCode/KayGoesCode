@@ -10,7 +10,6 @@
 
 - 🤖 **Daily Poster Bot**: auto-generates event-themed posters with Gemini and delivers them to Telegram via GitHub Actions
 - 📷 **ESP32-CAM Number Plate Recognition**: an embedded vision project with ESP32-CAM, OLED display and cloud API
-- 🏰 **Hearth to Throne**: a browser-based medieval grand strategy game
 
 ## 🛠️ What I use
 
@@ -31,10 +30,9 @@ Plus a lot of AI tools. I build fast with them, then dig in to understand how th
 
 ## 📫 Let's connect
 
-- 📧 your-email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-username)
-- 📸 [Instagram](https://instagram.com/your-username)
-
+- 📧 kaygoestowork@gmail.com
+- 💼 [LinkedIn]www.linkedin.com/in/
+SKarthikeyan101 
 ---
 
 ⭐ *Always curious, always building.*
