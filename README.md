@@ -31,7 +31,7 @@ Plus a lot of AI tools. I build fast with them, then dig in to understand how th
 ## 📫 Let's connect
 
 - 📧 kaygoestowork@gmail.com
-- 💼 [LinkedIn]www.linkedin.com/in/SKarthikeyan101 
+- 💼 www.linkedin.com/in/SKarthikeyan101 
 ---
 
 ⭐ *Always curious, always building.*
