@@ -1,4 +1,4 @@
-# Hey, I'm Kay 👋
+# Hey, I'm S.Karthikeyan, you can call me Kay 👋
 
 🎓 Engineering student at **St. Joseph Engineering College (SJEC), Mangaluru**
 💡 Curious problem solver who loves inventing new things
@@ -31,8 +31,7 @@ Plus a lot of AI tools. I build fast with them, then dig in to understand how th
 ## 📫 Let's connect
 
 - 📧 kaygoestowork@gmail.com
-- 💼 [LinkedIn]www.linkedin.com/in/
-SKarthikeyan101 
+- 💼 [LinkedIn]www.linkedin.com/in/SKarthikeyan101 
 ---
 
 ⭐ *Always curious, always building.*
